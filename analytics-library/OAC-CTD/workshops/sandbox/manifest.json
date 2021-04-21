@@ -3,7 +3,7 @@
       "tutorials": [
         {
             "title": "Introduction",
-            "filename": "./../../intro/intro-sandbox.md"
+            "filename": "../../intro/intro-sandbox.md"
         },
           {
               "title": "Lab 1: Access OAC and load data",
