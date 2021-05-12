@@ -30,6 +30,8 @@ You will be taken to the OAC Home page.
 
 ## **Step 2**: Load an excel file
 
+Donwload the file: [OAC_TD_Expenses.xlsx](https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/z7Md19CNOzaqxzvM_fERSYMg2vHfcxeXj77Zj2v5wMxqY5ML6nZC6KtIEHxU9F_5/n/interactivetech/b/OAC-CTD/o/OAC_TD_Expenses.xlsx)
+
 On the OAC Home Page
 
 NOTE that you probably won’t have the same list of projects and datasets.

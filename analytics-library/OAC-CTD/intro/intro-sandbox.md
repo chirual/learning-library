@@ -30,6 +30,8 @@ Estimated time: 120 minutes
 
 ## Additional Recommended Resources
 
+[Lab Guide PDF version](https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/8XchSSfgtoRE4VptNB6g-2rlLbNmOVs-RTNOHoqQjVgB-A5RMF35SC0nFVBfTykg/n/interactivetech/b/OAC-CTD/o/OAC%20Virtual%20Test%20Drive%20-%20Lab%20Guide.pdf)
+
 *Please proceed to the next lab*
 
 ## Acknowledgements
