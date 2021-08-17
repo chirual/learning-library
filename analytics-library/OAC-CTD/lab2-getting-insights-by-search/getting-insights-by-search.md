@@ -39,7 +39,8 @@ Note that close to the field we have the name of the Dataset where this item is 
 
 The icon at the start identifies whether is a Dimension (A) or a Measure (#)
 
-![](images/oac-close-banner.png " ")
+<!-- This is commented out. -->
+<!-- ![](images/oac-close-banner.png " ") -->
 
 OAC queries the data and presents it using the best visualization for the type of data you request.
 

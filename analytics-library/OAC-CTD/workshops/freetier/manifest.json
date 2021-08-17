@@ -1,5 +1,6 @@
 {
   "workshoptitle": "Oracle Analytics Cloud Virtual Test Drive - CTD Edition",
+  "help": "livelabs-help-analytics_us@oracle.com",
     "tutorials": [
         {
             "title": "Oracle Analytics Cloud Virtual Test Drive - CTD Edition",
@@ -34,6 +35,11 @@
             "title": "Summary",
             "filename": "./../../summary/summary.md",
             "type": "livelabs"
+        },
+        {
+           "title": "Need Help?",
+           "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+           "filename":"../../need-help-freetier/need-help-freetier.md"
         }
     ]
 }

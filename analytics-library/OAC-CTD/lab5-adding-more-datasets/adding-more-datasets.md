@@ -23,6 +23,8 @@ Estimated Lab Time: 30 minutes
 
 ## **Step 1**: Add additional data set
 
+Donwload the file: [OAC_TD_Agreements.xlsx](https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/QvH_te7x8a9YUSU4Z2x6nDo32I8EIHyFFpgpLD6_mlevelfbr3RtsM4WFa1AyRNe/n/interactivetech/b/OAC-CTD/o/OAC_td_agreementsOAC_TD_Agreements.xlsx)
+
 ![](images/oac-ad.png " ")
 
 To confirm that Hotel had already an agreement and the savings they have to claim to the hotel chain, you need to add that information from another excel with the list of vendor agreements.
