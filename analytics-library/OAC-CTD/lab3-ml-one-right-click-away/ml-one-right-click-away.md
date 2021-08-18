@@ -21,7 +21,7 @@ Estimated Lab Time: 30 minutes
 ### Prerequisites
 * Logged in to OAC
 
-## **Step 1**: Explore the OAC Project
+## **Task 1**: Explore the OAC Project
 
 ![](images/oac-ml-option.png " ")
 
@@ -50,7 +50,7 @@ First steps analyzing data usually requires time and effort. You can get a big p
 1. Select “Expenses Amount” by clicking on it.
 2. Right-click on “Expenses Amount” and select “Explain Expenses Amount”
 
-## **Step 2**: Building a canvas using the **Explain** feature
+## **Task 2**: Building a canvas using the **Explain** feature
 
 ![](images/oac-ml-select-for-canvas.png " ")
 

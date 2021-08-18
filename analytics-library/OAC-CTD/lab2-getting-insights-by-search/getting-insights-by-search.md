@@ -20,7 +20,7 @@ Estimated Lab Time: 15 minutes
 ### Prerequisites
 * Logged in to OAC
 
-## **Step 1**: Getting Familiar with BI Ask
+## **Task 1**: Getting Familiar with BI Ask
 
 ![](images/oac-search-everything.png " ")
 
@@ -61,7 +61,7 @@ But you don’t know which type of expenses are. You decide to add that.
 1. Start typing “Expense”
 2. From the drop-down list choose “Expense Type”
 
-## **Step 2**: Building more visualizations using the BI ASK
+## **Task 2**: Building more visualizations using the BI ASK
 
 ![](images/oac-change-visualization-type.png " ")
 

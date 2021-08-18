@@ -20,7 +20,7 @@ Estimated Lab Time: 30 minutes
 ### Prerequisites
 * Logged in to OAC
 
-## **Step 1**: Working with maps 
+## **Task 1**: Working with maps 
 
 ![](images/oac-aa-canvas.png " ")
 
@@ -45,7 +45,7 @@ You add the city to the map.
 Location of the destination cities appear on the map. You now want to add the Expense information to see how much was spent by city.
 1. Select and Drag “Expense Amount” to “Size” The size of the bubble represents the amount spent on each city.
 
-## **Step 2**: Apply one-click forecast
+## **Task 2**: Apply one-click forecast
 
 ![](images/oac-aa-visualization.png " ")
 
@@ -72,7 +72,7 @@ On the properties menu at the bottom left you can configure more aspects of the 
 
 Note that the forecast changes as now is using ARIMA method.
 
-## **Step 3**: Exploring all the filtering options
+## **Task 3**: Exploring all the filtering options
 
 ![](images/oac-aa-filter.png " ")
 

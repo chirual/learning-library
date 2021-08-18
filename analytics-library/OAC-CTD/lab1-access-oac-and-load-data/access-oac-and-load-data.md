@@ -15,7 +15,7 @@ Estimated Lab Time: 15 minutes
 * Load an excel file
 * Enhance and prepare the file for search
 
-## **Step 1**: Connect to the OAC instance
+## **Task 1**: Connect to the OAC instance
 
 Open the browser and enter the ‘OAC URL’ for ‘Oracle Analytics Cloud’ provided. It would be of the format http://host/dv/ui.
 
@@ -28,7 +28,7 @@ Open the browser and enter the ‘OAC URL’ for ‘Oracle Analytics Cloud’ pr
 
 You will be taken to the OAC Home page.
 
-## **Step 2**: Load an excel file
+## **Task 2**: Load an excel file
 
 Donwload the file: [OAC_TD_Expenses.xlsx](https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/z7Md19CNOzaqxzvM_fERSYMg2vHfcxeXj77Zj2v5wMxqY5ML6nZC6KtIEHxU9F_5/n/interactivetech/b/OAC-CTD/o/OAC_TD_Expenses.xlsx)
 
@@ -61,7 +61,7 @@ On the screen you have a preview of the data.
 1. Change the Name of the dataset adding your initials at the end, to avoid clashing with other attendees, for instance: OAC_TD_Expenses_JAMP
 2. Click on “Add”
 
-## **Step 3**: Enhance and prepare the file for search
+## **Task 3**: Enhance and prepare the file for search
 
 ![](images/oac-ccn.png " ")
 

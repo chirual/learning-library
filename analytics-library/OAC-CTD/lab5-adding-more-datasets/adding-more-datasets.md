@@ -21,7 +21,7 @@ Estimated Lab Time: 30 minutes
 ### Prerequisites
 * Logged in to OAC
 
-## **Step 1**: Add additional data set
+## **Task 1**: Add additional data set
 
 Donwload the file: [OAC_TD_Agreements.xlsx](https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/QvH_te7x8a9YUSU4Z2x6nDo32I8EIHyFFpgpLD6_mlevelfbr3RtsM4WFa1AyRNe/n/interactivetech/b/OAC-CTD/o/OAC_td_agreementsOAC_TD_Agreements.xlsx)
 
@@ -50,7 +50,7 @@ You see a preview of the data. Note that this file has the country column with I
 1. Change the Name of the dataset adding your initials at the end, to avoid clashing with other attendees, for instance: OAC_TD_Agreements_JAMP
 2. Click on “Add”
 
-## **Step 2**: Join different datasets
+## **Task 2**: Join different datasets
 
 ![](images/oac-ad-data-diagram.png " ")
 
@@ -101,7 +101,7 @@ On the Explorer menu at the left you note that the new Data Set has been added.
 You want to compare the total Hotel Expenses with the amount that can be saved if the company claims the Hotel Chain to apply the agreement.
 1. Click and Drag “Expenses Amount” to the top of the canvas. Check that a blue bar appears at the top covering the whole canvas and not only a small part of it.
 
-## **Step 3**: Use calculations on your datasets
+## **Task 3**: Use calculations on your datasets
 
 ![](images/oac-ad-calculation.png " ")
 
