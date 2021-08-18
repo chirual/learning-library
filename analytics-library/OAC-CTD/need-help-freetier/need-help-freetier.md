@@ -47,6 +47,6 @@ If any of these three conditions are true, some ports in your network may be clo
 
 ## **Acknowledgements**
 
-- **Author** - Lucian Dinescu, Product Strategy, Analytics
+- **Author** - Name, Role, Team
 - **Contributors** -
-- **Last Updated By/Date** - Lucian Dinescu, April 2021
+- **Last Updated By/Date** - Your Name Here, April 2021
